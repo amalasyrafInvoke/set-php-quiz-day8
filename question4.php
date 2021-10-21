@@ -42,7 +42,7 @@
   <div class="container">
 
     <form class="form-container" action="question4.php" method="POST">
-      <label for="starType">Choose a Question:</label>
+      <label for="questionType">Choose a Question:</label>
       <select name="questionType">
         <option value="first">What's your name ?</option>
         <option value="second">What's your hobby ?</option>
